@@ -14,7 +14,13 @@
 
 
 }
-
+body{
+	background-image: url('image/donate\ us.jpg');
+	background-position: center;
+	background-size: cover;
+	color: white
+	;
+  }
 
 .jumbotron{
 	background: none;
@@ -28,4 +34,7 @@ form-1{
 }
 .header-1{
 	margin-top: 200px
+}
+.a{
+	color: white;
 }
